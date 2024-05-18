@@ -1,0 +1,15 @@
+{
+  "name": "deck-master",
+  "version": "1.0.0",
+  "description": "That's the web app that will show current data and what's going on on my app called deck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giorgos Panagiotis Markou",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "pg": "^8.11.5"
+  }
+}

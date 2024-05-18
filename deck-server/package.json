@@ -1,0 +1,19 @@
+{
+  "name": "deck-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "memory-cache": "^0.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.2",
+    "pg": "^8.11.5",
+    "socket.io": "^4.7.5"
+  }
+}
